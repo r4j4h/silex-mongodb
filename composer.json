@@ -15,7 +15,7 @@
 		"provider"
 	],
 	"require" : {
-		"mongodb/mongodb" : "~1.0",
+		"mongodb/mongodb" : "*",
 		"silex/api" : "~2.0"
 	},
 	"require-dev" : {
